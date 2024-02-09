@@ -34,6 +34,8 @@ public class ParkinglotService {
 
     public String leave(int no){
         List<Car> cars = parkingLot.getSlotBooked().stream().filter(car->car.getSlot().getSlotNo()==no).collect(Collectors.toList());
+         if(cars.size()==0)
+            return "Slot number "+no+" is already vacant";
         parkingLot.getSlotBooked().remove(cars.get(0));
         parkingLot.getSlots().add(new Slot(no));
         return "Slot number "+ no +" is free";
