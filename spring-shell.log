@@ -1,0 +1,39 @@
+1707481022767:create_parking_lot 6
+1707481114792:park KA-01-HH-123 White
+1707481131083:park KA-01-HH-124 White
+1707481147366:park KA-01-HH-125 Black
+1707481164176:park KA-01-HH-127 White
+1707481178472:park KA-01-HH-128 Black
+1707481193524:park KA-01-HH-1231 Black
+1707481204021:park KA-01-HH-1230 White
+1707481216733:park KA-01-HH-123 White
+1707481254463:leave 3
+1707481265179:park KA-01-HH-12311 White
+1707481282761:status
+1707481355076:registrations_numbers_for_car_with_colour White
+1707481369137:registrations_numbers_for_car_with_colour Black
+1707481628894:create_parking_lot 4
+1707481643246:park KA-01-HH-123 White
+1707481655479:park KA-01-HH-121 White
+1707481663664:park KA-01-HH-122 White
+1707481672827:park KA-01-HH-125 White
+1707481686172:park KA-01-HH-126 Black
+1707481698211:leave 1
+1707481709161:status
+1707481750573:park KA-01-HH-12333 Black
+1707481788195:registrations_numbers_for_car_with_colour Black
+1707481803001:registrations_numbers_for_car_with_colour White
+1707482549641:create_parking_lot 4
+1707482999711:park KA-01-HH-123 White
+1707483006712:shell:>
+1707483051658:create_parking_lot 4
+1707483065744:park KA-01-HH-123 White
+1707483077840:park KA-01-HH-124 White
+1707483092998:park KA-01-HH-125 Black
+1707483105087:park KA-01-HH-127 Black
+1707483115159:park KA-01-HH-127 White
+1707483127260:leave 1
+1707483143421:status
+1707483161605:park KA-01-HH-1237 White
+1707483201937:registrations_numbers_for_car_with_colour Black
+1707483208998:registrations_numbers_for_car_with_colour White
